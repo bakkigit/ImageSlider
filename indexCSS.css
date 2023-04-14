@@ -1,0 +1,19 @@
+body{
+    background-color: gray;
+}
+
+.container{
+    border: 3px solid black;
+    width: 250px;
+    height: 250px;
+    margin: auto;
+}
+
+.knapper{
+   display: flex;
+   justify-content: center;
+}
+
+button{
+    margin: 0 10px;
+}
